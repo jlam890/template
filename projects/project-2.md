@@ -21,6 +21,4 @@ My role in the team was understanding and implementing the function that would p
 
 From this project I learned how to import a new library into an android project. The library we used to build the bar graphs were actually from an outside source and not a part of the android apis.
 
-For more information the link provided below is my GitHub repo.
-
-Source: <a href="https://github.com/joshuaccl/CatTracks-AndroidApp"><i class="large github icon"></i>CatTracks-AndroidApp</a>
+For more information here is the Source: <a href="https://github.com/joshuaccl/CatTracks-AndroidApp"><i class="large github icon"></i>GitHub repo</a>
