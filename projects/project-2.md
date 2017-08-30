@@ -2,23 +2,24 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: CatTracks
+permalink: projects/CatTracks
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Android Studio
+  - Java
+  - Hackathon
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An android app developed for a hackathon that aims to help students restrain from social media.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+CatTracks is a android platform application that my team and I developed for a 24 hour hackathon. CatTracks allows the user to create and name their own cat to take care of. This cat has five different stages of life and whenever the user goes over a threshold of time on social media the cat's life deteriorates. Right now the threshold is set for 10 seconds for demo purposes. There is also a section where the user can go to see their usage stats. The second page is a bar graph of the time used for the sites snapchat, instagram, facebook, and twitter.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My role in the team was understanding and implementing the function that would poll the android system for the amount of time used by the social media apps. I also designed the bar graph page with the amount of time on social media displayed. Both of these tasks were challenging because they involved using new android libraries and we only had the 24 hour time limit to understand the library and then implement the functions.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+From this project I learned how to import a new library into an android project. The library we used to build the bar graphs were actually from an outside source and not a part of the android apis.
+
+For more information the link provided below is my GitHub repo.
+Source: <a href="https://github.com/joshuaccl/CatTracks-AndroidApp"><i class="large github icon"></i>CatTracks-AndroidApp</a>
