@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+title: HIDRA
+permalink: projects/HIDRA
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Android Studio
+  - Java
+  - SQL
+  - Raspberry Pi
+  - Mapbox
+summary: My team developed a proof of concept android application with the goal of supplementing first responders in a disaster scenario.
 ---
 
 <div class="ui small rounded images">
@@ -19,11 +21,11 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For the summer I was a part of an intern team for Booz Allen Hamilton. We were tasked with creating a proof of concept to help secure more funding for a HADR (Humanitarian Assistance and Disaster Relief) tool. We came up with HIDRA or the Humanitarian Interconnected Disaster Relief Assistant. HIDRA is able to detect other wireless technologies like bluetooth, nfc, and rfid and plot the data onto a map for display. Imagine a scenario where a first responder is walking through the aftermath of a disaster. With HIDRA they could see some bluetooth signals which could be signs of victims in need of help. New resources can be scanned in via RFID tags or NFC chips and indicate where the food, water, and other supplies are located.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project I was one of three software developers working on the android application. I was responsible for implementing a bluetooth low energy service that would run in the background of the app periodically scanning for new bluetooth devices. Once I finished this service I moved on to developing the interface for RFID scans. I also designed the simple local SQL database for HIDRA. We also had a server running on a raspberry pi that would accept HTML requests from our mobile app. Another team member implemented the actual HTML request and I was tasked with integrating into our project so that the server could understand our input. As a test we walked around downtown Honolulu during one lunch break with our phones and were able to plot the collected signals onto our MapBox generated map. We also tested it in a ballroom during our final week of the internship in Washington DC, and from the about 400 people we were able to pick up 75 unique device signals from a fixed location. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+This was my first big software development project and I learned many valuable skills. These include proficiency in GitHub, time management using agile methodology, and introduction to other software languages. 
 
 
 
