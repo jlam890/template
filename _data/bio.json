@@ -17,42 +17,48 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "joshuaccl",
+        "url": "http://github.com/joshuaccl"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Joshua Lam",
+        "url": "https://www.linkedin.com/in/joshua-lam-14b105129/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "gmail",
+        "username": "jlam890@hawaii.edu",
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Coding",
+        "Programming",
+        "C++",
+        "Java",
+        "JavaScript",
+        "C"
       ]
     },
     {
-      "name": "data mining",
+      "name": "mobile app development",
       "keywords": [
+        "Android",
+        "Android Studio",
+        "Java",
+        "Gradle"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "computer design",
       "keywords": [
+        "Processor",
+        "Operating System",
+        "Pipeline",
+        "Verilog"
       ]
     }
   ],
