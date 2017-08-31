@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/network_topology.jpg
 title: Network Simulator
 permalink: projects/networkSimulator
 date: 2017

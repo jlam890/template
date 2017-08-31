@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/happycat_filled.png
 title: CatTracks
 permalink: projects/CatTracks
 date: 2017
