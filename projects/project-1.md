@@ -22,11 +22,4 @@ For this project I was one of three software developers working on the android a
 
 This was my first big software development project and I learned many valuable skills. These include proficiency in GitHub, time management using agile methodology, and introduction to other software languages. 
 
-
-
-
-
-
-
-
-
+For more information here is the <a href="https://github.com/joshuaccl/HIDRA">GitHub repo</a>
