@@ -13,7 +13,7 @@ labels:
 summary: Final project for an algorithms computer engineering class which we implemented a network using pipes and sockets.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/network_topology.jpg">
 
 The network simulator is a program that can be run and downloaded onto any computer. Using a configuration file the user is able to select how many host nodes or computers are on its network. This network is implemented through pipes and a switch. The computers are not directly connected to each other and all traffic is managed by the switch and its port table. Another user running the program on another computer can set up a completely different network with a different configuration file. As long as the ports that the socket connections use are the same these two programs running on separate computers can communicate with each other. Some of the features include ping, upload and download files, check the contents of a directory, and set up domain names for ease of use.
 

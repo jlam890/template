@@ -13,7 +13,7 @@ labels:
 summary: An android app developed for a hackathon that aims to help students restrain from social media.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/happycat_filled.jpg">
 
 CatTracks is a android platform application that my team and I developed for a 24 hour hackathon. CatTracks allows the user to create and name their own cat to take care of. This cat has five different stages of life and whenever the user goes over a threshold of time on social media the cat's life deteriorates. Right now the threshold is set for 10 seconds for demo purposes. There is also a section where the user can go to see their usage stats. The second page is a bar graph of the time used for the sites snapchat, instagram, facebook, and twitter.
 

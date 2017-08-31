@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/HIDRA.png
 title: HIDRA
 permalink: projects/HIDRA
 date: 2017
@@ -14,12 +14,7 @@ labels:
 summary: My team developed a proof of concept android application with the goal of supplementing first responders in a disaster scenario.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui image" src="../images/HIDRAapp.png">
 
 For the summer I was a part of an intern team for Booz Allen Hamilton. We were tasked with creating a proof of concept to help secure more funding for a HADR (Humanitarian Assistance and Disaster Relief) tool. We came up with HIDRA or the Humanitarian Interconnected Disaster Relief Assistant. HIDRA is able to detect other wireless technologies like bluetooth, nfc, and rfid and plot the data onto a map for display. Imagine a scenario where a first responder is walking through the aftermath of a disaster. With HIDRA they could see some bluetooth signals which could be signs of victims in need of help. New resources can be scanned in via RFID tags or NFC chips and indicate where the food, water, and other supplies are located.
 
