@@ -2,59 +2,23 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Network Simulator
+permalink: projects/networkSimulator
+date: 2017
 labels:
-  - Lisp
+  - C
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Pipes
+  - Sockets
+summary: Final project for an algorithms computer engineering class which we implemented a network using pipes and sockets.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The network simulator is a program that can be run and downloaded onto any computer. Using a configuration file the user is able to select how many host nodes or computers are on its network. This network is implemented through pipes and a switch. The computers are not directly connected to each other and all traffic is managed by the switch and its port table. Another user running the program on another computer can set up a completely different network with a different configuration file. As long as the ports that the socket connections use are the same these two programs running on separate computers can communicate with each other. Some of the features include ping, upload and download files, check the contents of a directory, and set up domain names for ease of use.
 
-To give you a flavor of the game, here is an excerpt from one run:
+My team had three members and for my part I was in charge of creating the switch object and also the dns server. The network switch node receives packets and forwards it onto the port of the destination. In the beginning the switch node does not know the location of any of the hosts but once a packet is forwarded it logs the information into its routing table. Host nodes are also able to register domain names with the dns server so that they have a easier name to remember when compared to host0, host1, host45... When a host wants to contact another host via its domain name it must first contact the dns server to get the host id associated with the domain name.
 
-<hr>
+This project helped me to get a better understanding of networking concepts like pipes, sockets, and ports. This was also the first project that we used GitHub for version control. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+For more information here is the <a href="https://github.com/joshuaccl/Network-Simulator">GitHub repo</a>
