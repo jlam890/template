@@ -68,7 +68,10 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "SQL",
+	"Verilog",
+	"VHDL",
+	"XML"	
       ]
     },
     {
@@ -76,90 +79,99 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Android Studio",
+	"Eclipse",
+	"Unix"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.61",
       "courses": [
+	{
+		"Data Structures and Algorithms",
+		"Operating Systems",
+		"Software Engineering I",
+		"Object Oriented Programming (C++)",
+		"Intro to C Programming",
+		"Discrete Mathematics for Engineers",
+		"Security and Trust I",
+		"Introduction to Digital Design",
+		"Digital Systems and Computer Design",
+		"Microelectronic Circuits",
+		"Engineering Electromagnetic Waves",
+		"Signal and Systems Analysis",
+		"Basic Circuit Analysis I & II"
+	}
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Games Intern",
+      "website": "https://www.boozallen.com",
+      "startDate": "2017-06-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "On the software development team in charge of android development",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed and pitched a platform that can detect various wireless technologies",
+	"Worked with HTTP, Bluetooth, NFC, and RFID wireless protocols and technologies",
+	"Programmed in Java, Python, and SQL and used Android Studio"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Learning Assistance Center",
+      "position": "Tutor and SI Leader",
+      "website": "http://manoa.hawaii.edu/undergrad/learning/",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "endDate": "present",
+      "summary": "Tutor for Math, Chemistry, and Physics & SI Leader for business calculus",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+     	"Create and oversee a one-hour weekly review session for Business Calculus",
+	"Able to communicate difficult concepts to students of all learning styles"
+	]
     }
   ],
-  "volunteer": [
+  "clubs": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Eta Kappa Nu - Delta Omega Chapter",
+      "website": "http://hknhawaii.weebly.com",
+      "position": "",
+      "startDate": "2017-08-31",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Honor Society for Electrical and Computer Engineers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Tutor underclassmen in engineering courses",
+        "Participate in engineering socials and events"
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "Fall 2014-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Gear Up Scholarship",
+      "date": "Fall 2014-Present",
+      "awarder": "Hawaii Community Foundation",
+      "summary": "Yearly scholarship awarded to Hawaii public school graduates who completed the Board of Education Recognition Diploma requirements and who demonstrate outstanding academic achievement"
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2014-Present",
+      "awarder": "",
+      "summary": "Awarded to students who earn a semester GPA of 3.5 on credits taken for a grade"
     }
   ],
   "references": [
