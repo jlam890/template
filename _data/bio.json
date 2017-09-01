@@ -95,7 +95,6 @@
       "endDate": "Present",
       "gpa": "3.61",
       "courses": [
-	[
 	"EE 367":  	"Data Structures and Algorithms",
 	"EE 468":	"Operating Systems",
 	"ICS 314":	"Software Engineering I",
@@ -109,7 +108,6 @@
 	"EE 371":	"Engineering Electromagnetic Waves",
 	"EE 315":	"Signal and Systems Analysis",
 	"EE 211/213":	"Basic Circuit Analysis I & II"
-	]
       ]
     }
   ],
@@ -170,6 +168,7 @@
     {
       "title": "Dean's List",
       "date": "Fall 2014-Present",
+      "awarder":"UH Manoa",
       "summary": "Awarded to students who earn a semester GPA of 3.5 on credits taken for a grade."
     }
   ],
