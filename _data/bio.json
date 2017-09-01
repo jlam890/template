@@ -96,19 +96,19 @@
       "gpa": "3.61",
       "courses": [
 	{
-		"Data Structures and Algorithms",
-		"Operating Systems",
-		"Software Engineering I",
-		"Object Oriented Programming (C++)",
-		"Intro to C Programming",
-		"Discrete Mathematics for Engineers",
-		"Security and Trust I",
-		"Introduction to Digital Design",
-		"Digital Systems and Computer Design",
-		"Microelectronic Circuits",
-		"Engineering Electromagnetic Waves",
-		"Signal and Systems Analysis",
-		"Basic Circuit Analysis I & II"
+	"EE 367":  	"Data Structures and Algorithms",
+	"EE 468":	"Operating Systems",
+	"ICS 314":	"Software Engineering I",
+	"EE 205":	"Object Oriented Programming (C++)",
+	"EE 160":	"Intro to C Programming",
+	"EE 362":	"Discrete Mathematics for Engineers",
+	"ICS 355":	"Security and Trust I",
+	"EE 260":	"Introduction to Digital Design",
+	"EE 361":	"Digital Systems and Computer Design",
+	"EE 323":	"Microelectronic Circuits",
+	"EE 371":	"Engineering Electromagnetic Waves",
+	"EE 315":	"Signal and Systems Analysis",
+	"EE 211/213":	"Basic Circuit Analysis I & II"
 	}
       ]
     }
@@ -165,13 +165,12 @@
       "title": "Gear Up Scholarship",
       "date": "Fall 2014-Present",
       "awarder": "Hawaii Community Foundation",
-      "summary": "Yearly scholarship awarded to Hawaii public school graduates who completed the Board of Education Recognition Diploma requirements and who demonstrate outstanding academic achievement"
+      "summary": "Yearly scholarship awarded to Hawaii public school graduates who completed the Board of Education Recognition Diploma requirements and who demonstrate outstanding academic achievement."
     },
     {
       "title": "Dean's List",
       "date": "Fall 2014-Present",
-      "awarder": "",
-      "summary": "Awarded to students who earn a semester GPA of 3.5 on credits taken for a grade"
+      "summary": "Awarded to students who earn a semester GPA of 3.5 on credits taken for a grade."
     }
   ],
   "references": [
