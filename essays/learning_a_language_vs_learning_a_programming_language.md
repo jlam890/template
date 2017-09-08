@@ -4,8 +4,8 @@ type: essay
 title: Learning a Language vs Learning a Programming Language
 date: 2017-09-01
 labels:
-	- Javascript
-	- New Languages
+- Javascript
+- New Languages
 ---
 
 ## The Issue
