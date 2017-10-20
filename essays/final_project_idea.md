@@ -16,10 +16,10 @@ Our solution Manoa Stalls, allievates this problem by crowd sourcing the resourc
 # Mockup Page Ideas
 
 Here are the pages included in the application:
-	1. Welcome/Login Page
-	2. Report or Search Page
-	3. Report Page
-	4. Search Page
+1. Welcome/Login Page
+2. Report or Search Page
+3. Report Page
+4. Search Page
 
 # Use Case Ideas
 
@@ -28,11 +28,11 @@ There are many different situations where Manoa Stalls is applicable. For exampl
 # Beyond the Basics
 
 Additional Features:
-	1. Featured Zones
-		a. Popular Threads
-		b. Most clicked Links
-	2. Rating Student Reporters
-		a. Thumbs up/down on a report
-	3. Incorporation with google maps for parking spots
+1. Featured Zones
+	a. Popular Threads
+	b. Most clicked Links
+2. Rating Student Reporters
+	a. Thumbs up/down on a report
+3. Incorporation with google maps for parking spots
 
 ## By William Yoro and Joshua Lam
