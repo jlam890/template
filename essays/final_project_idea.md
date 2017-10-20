@@ -29,10 +29,10 @@ There are many different situations where Manoa Stalls is applicable. For exampl
 
 Additional Features:
 1. Featured Zones
-*a. Popular Threads
-*b. Most clicked Links
+* a. Popular Threads
+* b. Most clicked Links
 2. Rating Student Reporters
-*a. Thumbs up/down on a report
+* a. Thumbs up/down on a report
 3. Incorporation with google maps for parking spots
 
 ## By William Yoro and Joshua Lam
