@@ -29,16 +29,16 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
         "Coding",
         "Programming",
         "Networking",
-	"Cyber Secuirty"
+	"Cyber Security"
       ]
     },
     {
-      "name": "mobile/web app development",
+      "name": "Mobile/Web App Development",
       "keywords": [
         "Android",
         "Android Studio",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "computer design",
+      "name": "Computer Design",
       "keywords": [
         "Processor",
         "Operating System",
