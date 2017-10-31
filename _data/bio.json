@@ -6,7 +6,7 @@
     "email": "jlam890@hawaii.edu",
     "phone": "808-387-2540",
     "website": "https://joshuaccl.github.io",
-    "summary": "I am a senior at the University of Hawaii pursuing a B.S. in computer engineering. I expect to graduate in May 2018. I am currently looking for software engineering opportunities in Hawaii or California.",
+    "summary": "I am a senior at the University of Hawaii pursuing a B.S. in computer engineering. I expect to graduate in May 2018. I am currently looking for software engineering opportunities in Hawaii or the West Coast.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -33,19 +33,23 @@
       "keywords": [
         "Coding",
         "Programming",
-        "C++",
-        "Java",
-        "JavaScript",
-        "C"
+        "Networking",
+	"Cyber Secuirty"
       ]
     },
     {
-      "name": "mobile app development",
+      "name": "mobile/web app development",
       "keywords": [
         "Android",
         "Android Studio",
         "Java",
-        "Gradle"
+        "Gradle",
+	"HTML",
+	"CSS",
+	"Meteor",
+	"JavaScript",
+	"Semantic-UI",
+	"MongoDB"
       ]
     },
     {
@@ -67,11 +71,12 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "HTML/CSS",
         "SQL",
 	"Verilog",
 	"VHDL",
-	"XML"	
+	"XML",
+	"Python"	
       ]
     },
     {
@@ -82,7 +87,9 @@
         "Git/GitHub",
         "Android Studio",
 	"Eclipse",
-	"Unix"
+	"Unix",
+	"IntelliJ IDEA",
+	"Linux"
       ]
     }
   ],
@@ -120,11 +127,25 @@
       "endDate": "Present",
       "summary": "On the software development team in charge of android development",
       "highlights": [
-        "Designed and pitched a platform that can detect various wireless technologies",
-	"Worked with HTTP, Bluetooth, NFC, and RFID wireless protocols and technologies",
-	"Programmed in Java, Python, and SQL and used Android Studio"
-      ]
+     	"Designed and pitched an Android application for use as a disaster relief tool",
+	"Worked with Bluetooth, NFC, and RFID wireless protocols to detect nearby wireless devices",
+	"Programmed in Java using Android Studio to build the Android application",
+	"Send data from built-in SQL database with the HTTP protocol to a local server",
+	"Used industry standard Agile methodologies (Scrum, Sprints, Basecamp)"
+	 ]
     },
+	{
+	"company": "UH Manoa Electrical Enginnering Department",
+	"position": "Teaching Assistant for EE 260 (Introduction to Digital Design)",
+	"website": "http://ee.hawaii.edu",
+	"startDate": "2017-08-31",
+	"endDate": "Present",
+	"summary": "Teach and manage a class of about 20 students",
+	"highlights": [
+		"Help students debug and build ciruits and VHDL modules",
+		"Explain difficult concepts to students in different ways"
+		]
+	},	
     {
       "company": "Learning Assistance Center",
       "position": "Tutor and SI Leader",
