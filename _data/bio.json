@@ -33,7 +33,7 @@
       "keywords": [
         "Coding",
         "Programming",
-        "Networking",
+        "Big Data Analysis",
 	"Cyber Security"
       ]
     },
@@ -43,7 +43,6 @@
         "Android",
         "Android Studio",
         "Java",
-        "Gradle",
 	"HTML",
 	"CSS",
 	"Meteor",
@@ -53,12 +52,12 @@
       ]
     },
     {
-      "name": "Computer Design",
+      "name": "Embedded Systems",
       "keywords": [
-        "Processor",
-        "Operating System",
-        "Pipeline",
-        "Verilog"
+        "ARM MCU",
+        "Eclipse",
+        "ST-Link/ST-Utility",
+        "C/C++"
       ]
     }
   ],
